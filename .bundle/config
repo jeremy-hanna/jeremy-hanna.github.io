@@ -1,0 +1,5 @@
+---
+BUNDLE_PATH: "/opt/apps/vendor/jeremy-hanna.github.io"
+BUNDLE_BIN: "bin"
+BUNDLE_DISABLE_SHARED_GEMS: "true"
+BUNDLE_CACHE_ALL: "true"
